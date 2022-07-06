@@ -1,0 +1,14 @@
+{
+    "name": "annahl/web-todolist",
+    "description": "Membuat web todolist",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Annahl Muhammad",
+            "email": "annahl@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.2"
+    }
+}
